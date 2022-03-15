@@ -1,1 +1,15 @@
-/* styles go here */
+.fieldset {
+  margin-top: 20px;
+}
+
+.field {
+  margin-bottom: 10px;
+}
+
+.input {
+  margin-top: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
